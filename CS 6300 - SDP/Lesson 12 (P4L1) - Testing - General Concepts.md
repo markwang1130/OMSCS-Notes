@@ -11,7 +11,7 @@ Software is buggy. In fact, experts argue that software bugs cost the US economy
 There are three main concepts we should know when testing software:
 
 1. **Failure**: an observable incorrect behavior
-2. **Fault**: incorrect code
+2. **Fault**: incorrect code. **AKA bug**
 3. **Error**: cause of a fault
 
 ## Verification Approaches
@@ -53,7 +53,7 @@ There are different levels of testing:
 We previously discussed developer testing but there are also different types of testing by organization:
 
 - **Alpha**: testing done by users internal to the developing organization
-- **Beta**: testing done by users external to te developing organization
+- **Beta**: testing done by users external to the developing organization
 
 ## Black And White Box Testing Introduction
 

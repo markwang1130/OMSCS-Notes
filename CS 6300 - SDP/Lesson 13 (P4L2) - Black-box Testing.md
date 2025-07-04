@@ -1,4 +1,4 @@
-# Lesson 13
+# Lesson 13 Black-Box Testing
 
 In this lesson we will cover one of two testing methods: _black-box testing_ which refers to functional testing of software.
 

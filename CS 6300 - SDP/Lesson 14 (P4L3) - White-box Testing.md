@@ -1,4 +1,4 @@
-# Lesson 14
+# Lesson 14 White-Box Testing
 
 In _black-box_ testing we tested a system without knowing the internal details of the software system. This lesson will examine _white-box_ (structural) testing which involves the internal details of a software system as wells as benefits and drawbacks.
 
